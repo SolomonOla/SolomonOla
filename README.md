@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SolomonOla
+- 👋 Hi, I’m @Ola_Brown
 - 👀 I’m interested in ...Graphic, UI/UX Design
 - 🌱 I’m currently learning ... UX Writer
 - 💞️ I’m looking to collaborate on ...
