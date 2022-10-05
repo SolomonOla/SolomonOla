@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Graphic, UI/UX Design
 - 🌱 I’m currently learning ... UX Writer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+234 909 796 5684
+- 📫 How to reach me ...
 
 <!---
 SolomonOla/SolomonOla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
